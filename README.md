@@ -1,3 +1,3 @@
 # Veri Kopyası Aktarımı
-## Geliştirici.
+## Geliştirici
 ## https://github.com/cudidev
