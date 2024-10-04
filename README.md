@@ -1,2 +1,3 @@
-# cudi_sender
-Windows
+# Veri Kopyası Aktarımı
+## Geliştirici.
+## https://github.com/cudidev
